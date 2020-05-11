@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/loai/!svn/ver/14/dating/www/resources/views/frontend/user/account/tabs
+END
+change-password.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/loai/!svn/ver/14/dating/www/resources/views/frontend/user/account/tabs/change-password.blade.php
+END
+edit.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/loai/!svn/ver/14/dating/www/resources/views/frontend/user/account/tabs/edit.blade.php
+END
+profile.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/loai/!svn/ver/14/dating/www/resources/views/frontend/user/account/tabs/profile.blade.php
+END

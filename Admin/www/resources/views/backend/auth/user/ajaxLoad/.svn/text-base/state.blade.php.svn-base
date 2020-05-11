@@ -1,0 +1,1 @@
+{!! Form::select('state' ,$stateList, null,['class' => 'form-control']) !!}

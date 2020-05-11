@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/loai/!svn/ver/14/dating/www/resources/views/frontend/auth/passwords
+END
+email.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/loai/!svn/ver/14/dating/www/resources/views/frontend/auth/passwords/email.blade.php
+END
+expired.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/loai/!svn/ver/14/dating/www/resources/views/frontend/auth/passwords/expired.blade.php
+END
+reset.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/loai/!svn/ver/14/dating/www/resources/views/frontend/auth/passwords/reset.blade.php
+END

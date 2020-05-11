@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/loai/!svn/ver/14/dating/www/app/Notifications/Frontend/Auth
+END
+UserNeedsPasswordReset.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/loai/!svn/ver/14/dating/www/app/Notifications/Frontend/Auth/UserNeedsPasswordReset.php
+END
+UserNeedsConfirmation.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/loai/!svn/ver/14/dating/www/app/Notifications/Frontend/Auth/UserNeedsConfirmation.php
+END

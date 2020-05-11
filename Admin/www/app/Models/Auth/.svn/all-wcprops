@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/loai/!svn/ver/101/dating/www/app/Models/Auth
+END
+BaseUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/loai/!svn/ver/43/dating/www/app/Models/Auth/BaseUser.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/loai/!svn/ver/14/dating/www/app/Models/Auth/User.php
+END
+UserProfile.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/loai/!svn/ver/106/dating/www/app/Models/Auth/UserProfile.php
+END
+Role.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/loai/!svn/ver/14/dating/www/app/Models/Auth/Role.php
+END
+PasswordHistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/loai/!svn/ver/14/dating/www/app/Models/Auth/PasswordHistory.php
+END
+SocialAccount.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/loai/!svn/ver/14/dating/www/app/Models/Auth/SocialAccount.php
+END

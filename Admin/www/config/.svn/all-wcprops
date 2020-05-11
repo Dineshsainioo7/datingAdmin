@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/loai/!svn/ver/67/dating/www/config
+END
+breadcrumbs.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/loai/!svn/ver/14/dating/www/config/breadcrumbs.php
+END
+locale.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/loai/!svn/ver/67/dating/www/config/locale.php
+END
+broadcasting.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/loai/!svn/ver/14/dating/www/config/broadcasting.php
+END
+access.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/loai/!svn/ver/14/dating/www/config/access.php
+END
+auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/loai/!svn/ver/14/dating/www/config/auth.php
+END
+cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/loai/!svn/ver/14/dating/www/config/cache.php
+END
+geoip.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/loai/!svn/ver/14/dating/www/config/geoip.php
+END
+database.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/loai/!svn/ver/14/dating/www/config/database.php
+END
+audit.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/loai/!svn/ver/14/dating/www/config/audit.php
+END
+self-diagnosis.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/loai/!svn/ver/14/dating/www/config/self-diagnosis.php
+END
+filesystems.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/loai/!svn/ver/14/dating/www/config/filesystems.php
+END
+gravatar.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/loai/!svn/ver/14/dating/www/config/gravatar.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/loai/!svn/ver/14/dating/www/config/view.php
+END
+debugbar.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/loai/!svn/ver/14/dating/www/config/debugbar.php
+END
+app.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/loai/!svn/ver/44/dating/www/config/app.php
+END
+log-viewer.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/loai/!svn/ver/14/dating/www/config/log-viewer.php
+END
+hashing.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/loai/!svn/ver/14/dating/www/config/hashing.php
+END
+mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/loai/!svn/ver/14/dating/www/config/mail.php
+END
+services.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/loai/!svn/ver/14/dating/www/config/services.php
+END
+session.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/loai/!svn/ver/14/dating/www/config/session.php
+END
+queue.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/loai/!svn/ver/14/dating/www/config/queue.php
+END
+logging.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/loai/!svn/ver/14/dating/www/config/logging.php
+END
+backend.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/loai/!svn/ver/14/dating/www/config/backend.php
+END
+analytics.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/loai/!svn/ver/14/dating/www/config/analytics.php
+END
+permission.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/loai/!svn/ver/14/dating/www/config/permission.php
+END

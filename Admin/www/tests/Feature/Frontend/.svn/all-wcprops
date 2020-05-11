@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Frontend
+END
+UserRegistrationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Frontend/UserRegistrationTest.php
+END
+UpdateUserAccountTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Frontend/UpdateUserAccountTest.php
+END
+PasswordExpirationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Frontend/PasswordExpirationTest.php
+END
+ResetPasswordTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Frontend/ResetPasswordTest.php
+END
+FillContactFormTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Frontend/FillContactFormTest.php
+END
+UserDashboardTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Frontend/UserDashboardTest.php
+END
+UserLoginTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Frontend/UserLoginTest.php
+END
+ChangePasswordTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Frontend/ChangePasswordTest.php
+END

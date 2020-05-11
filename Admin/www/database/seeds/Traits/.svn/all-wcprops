@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/loai/!svn/ver/14/dating/www/database/seeds/Traits
+END
+DisableForeignKeys.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/loai/!svn/ver/14/dating/www/database/seeds/Traits/DisableForeignKeys.php
+END
+TruncateTable.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/loai/!svn/ver/14/dating/www/database/seeds/Traits/TruncateTable.php
+END

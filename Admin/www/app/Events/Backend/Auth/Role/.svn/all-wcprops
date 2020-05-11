@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/loai/!svn/ver/14/dating/www/app/Events/Backend/Auth/Role
+END
+RoleCreated.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/loai/!svn/ver/14/dating/www/app/Events/Backend/Auth/Role/RoleCreated.php
+END
+RoleDeleted.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/loai/!svn/ver/14/dating/www/app/Events/Backend/Auth/Role/RoleDeleted.php
+END
+RoleUpdated.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/loai/!svn/ver/14/dating/www/app/Events/Backend/Auth/Role/RoleUpdated.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/loai/!svn/ver/68/dating/www/app/Http/Requests/Backend/Plan
+END
+PlanFeatureRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/loai/!svn/ver/68/dating/www/app/Http/Requests/Backend/Plan/PlanFeatureRequest.php
+END
+StorePlanRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/loai/!svn/ver/46/dating/www/app/Http/Requests/Backend/Plan/StorePlanRequest.php
+END
+StorePlanMonthRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/loai/!svn/ver/44/dating/www/app/Http/Requests/Backend/Plan/StorePlanMonthRequest.php
+END

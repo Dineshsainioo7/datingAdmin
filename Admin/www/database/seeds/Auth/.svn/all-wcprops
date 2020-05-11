@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/loai/!svn/ver/14/dating/www/database/seeds/Auth
+END
+PermissionRoleTableSeeder.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/loai/!svn/ver/14/dating/www/database/seeds/Auth/PermissionRoleTableSeeder.php
+END
+UserTableSeeder.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/loai/!svn/ver/14/dating/www/database/seeds/Auth/UserTableSeeder.php
+END
+UserRoleTableSeeder.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/loai/!svn/ver/14/dating/www/database/seeds/Auth/UserRoleTableSeeder.php
+END

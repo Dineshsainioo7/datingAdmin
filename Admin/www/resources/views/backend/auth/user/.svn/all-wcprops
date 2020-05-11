@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/loai/!svn/ver/102/dating/www/resources/views/backend/auth/user
+END
+create.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/loai/!svn/ver/101/dating/www/resources/views/backend/auth/user/create.blade.php
+END
+change-password.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/loai/!svn/ver/37/dating/www/resources/views/backend/auth/user/change-password.blade.php
+END
+edit.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/loai/!svn/ver/101/dating/www/resources/views/backend/auth/user/edit.blade.php
+END
+deleted.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/loai/!svn/ver/14/dating/www/resources/views/backend/auth/user/deleted.blade.php
+END
+index.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/loai/!svn/ver/106/dating/www/resources/views/backend/auth/user/index.blade.php
+END
+deactivated.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/loai/!svn/ver/38/dating/www/resources/views/backend/auth/user/deactivated.blade.php
+END
+show.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/loai/!svn/ver/102/dating/www/resources/views/backend/auth/user/show.blade.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/loai/!svn/ver/14/dating/www/resources/views/backend/auth/role
+END
+create.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/loai/!svn/ver/14/dating/www/resources/views/backend/auth/role/create.blade.php
+END
+edit.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/loai/!svn/ver/14/dating/www/resources/views/backend/auth/role/edit.blade.php
+END
+index.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/loai/!svn/ver/14/dating/www/resources/views/backend/auth/role/index.blade.php
+END

@@ -1,0 +1,1 @@
+{!! Form::select('city',$cityList, null,['class' => 'form-control']) !!}

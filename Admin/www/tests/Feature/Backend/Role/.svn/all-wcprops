@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Backend/Role
+END
+ReadRolesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Backend/Role/ReadRolesTest.php
+END
+DeleteRoleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Backend/Role/DeleteRoleTest.php
+END
+UpdateRoleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Backend/Role/UpdateRoleTest.php
+END
+CreateRoleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Backend/Role/CreateRoleTest.php
+END

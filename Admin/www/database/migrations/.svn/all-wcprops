@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/loai/!svn/ver/14/dating/www/database/migrations
+END
+2014_10_12_100000_create_password_resets_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/loai/!svn/ver/14/dating/www/database/migrations/2014_10_12_100000_create_password_resets_table.php
+END
+2017_09_26_140528_create_sessions_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/loai/!svn/ver/14/dating/www/database/migrations/2017_09_26_140528_create_sessions_table.php
+END
+2018_04_08_033256_create_password_histories_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/loai/!svn/ver/14/dating/www/database/migrations/2018_04_08_033256_create_password_histories_table.php
+END
+2017_09_11_174816_create_social_accounts_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/loai/!svn/ver/14/dating/www/database/migrations/2017_09_11_174816_create_social_accounts_table.php
+END
+2017_09_03_144628_create_permission_tables.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/loai/!svn/ver/14/dating/www/database/migrations/2017_09_03_144628_create_permission_tables.php
+END
+2017_09_26_140332_create_cache_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/loai/!svn/ver/14/dating/www/database/migrations/2017_09_26_140332_create_cache_table.php
+END
+2019_03_26_000344_create_audits_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/loai/!svn/ver/14/dating/www/database/migrations/2019_03_26_000344_create_audits_table.php
+END
+2014_10_12_000000_create_users_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/loai/!svn/ver/14/dating/www/database/migrations/2014_10_12_000000_create_users_table.php
+END
+2017_09_26_140609_create_jobs_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/loai/!svn/ver/14/dating/www/database/migrations/2017_09_26_140609_create_jobs_table.php
+END

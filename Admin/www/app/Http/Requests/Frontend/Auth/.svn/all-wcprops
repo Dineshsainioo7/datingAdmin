@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/loai/!svn/ver/14/dating/www/app/Http/Requests/Frontend/Auth
+END
+RegisterRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/loai/!svn/ver/14/dating/www/app/Http/Requests/Frontend/Auth/RegisterRequest.php
+END
+ResetPasswordRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/loai/!svn/ver/14/dating/www/app/Http/Requests/Frontend/Auth/ResetPasswordRequest.php
+END

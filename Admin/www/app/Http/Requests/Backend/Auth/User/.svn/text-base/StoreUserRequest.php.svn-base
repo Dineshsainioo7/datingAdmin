@@ -1,0 +1,49 @@
+<?php
+
+namespace App\Http\Requests\Backend\Auth\User;
+
+use Illuminate\Validation\Rule;
+use Illuminate\Foundation\Http\FormRequest;
+
+/**
+ * Class StoreUserRequest.
+ */
+class StoreUserRequest extends FormRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize()
+    {
+        return $this->user()->isAdmin();
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules()
+    {
+        return [
+            'first_name' => ['required', 'max:191'],
+            'last_name' => ['required', 'max:191'],
+            'email' => ['required', 'email', 'max:191', Rule::unique('users')],
+            'password' => ['required', 'min:6', 'confirmed'],
+            //'roles' => ['required', 'array'],
+            'gender' => ['required'],
+            'interests' => ['required'],
+            'date_of_birth' => ['required'],
+            'contact_numbers' => ['required'],
+            'interested_in' => ['required'],
+            'profile_pic' => ['required'],
+            'country' => ['required'],
+            'state' => ['required'],
+            'city' => ['required'],
+            'summery' => ['required'],
+            //'roles' => ['required', 'array'],
+        ];
+    }
+}

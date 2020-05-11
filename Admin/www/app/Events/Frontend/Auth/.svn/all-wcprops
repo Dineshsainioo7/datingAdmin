@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/loai/!svn/ver/14/dating/www/app/Events/Frontend/Auth
+END
+UserRegistered.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/loai/!svn/ver/14/dating/www/app/Events/Frontend/Auth/UserRegistered.php
+END
+UserConfirmed.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/loai/!svn/ver/14/dating/www/app/Events/Frontend/Auth/UserConfirmed.php
+END
+UserLoggedIn.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/loai/!svn/ver/14/dating/www/app/Events/Frontend/Auth/UserLoggedIn.php
+END
+UserProviderRegistered.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/loai/!svn/ver/14/dating/www/app/Events/Frontend/Auth/UserProviderRegistered.php
+END
+UserLoggedOut.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/loai/!svn/ver/14/dating/www/app/Events/Frontend/Auth/UserLoggedOut.php
+END

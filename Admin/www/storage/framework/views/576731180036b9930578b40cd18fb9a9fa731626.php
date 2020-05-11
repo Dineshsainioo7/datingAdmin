@@ -1,0 +1,1 @@
+<?php echo Form::select('action[]',  $actions,null, ['class' => 'form-control','id'=>'actionLoad','multiple' => 'multiple']); ?><?php /**PATH D:\wamp32\www\loai\dating\www\resources\views/backend/plans/plan_privilege/ajax_action_load.blade.php ENDPATH**/ ?>

@@ -1,0 +1,1 @@
+<?php echo Form::select('city',$cityList, null,['class' => 'form-control']); ?><?php /**PATH D:\wamp32\www\loai\dating\www\resources\views/backend/auth/user/ajaxLoad/city.blade.php ENDPATH**/ ?>

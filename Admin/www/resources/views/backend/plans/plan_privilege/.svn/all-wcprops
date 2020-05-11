@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/loai/!svn/ver/77/dating/www/resources/views/backend/plans/plan_privilege
+END
+create.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/loai/!svn/ver/76/dating/www/resources/views/backend/plans/plan_privilege/create.blade.php
+END
+form.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/loai/!svn/ver/76/dating/www/resources/views/backend/plans/plan_privilege/form.blade.php
+END
+edit.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/loai/!svn/ver/63/dating/www/resources/views/backend/plans/plan_privilege/edit.blade.php
+END
+index.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/loai/!svn/ver/77/dating/www/resources/views/backend/plans/plan_privilege/index.blade.php
+END
+ajax_action_load.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/loai/!svn/ver/76/dating/www/resources/views/backend/plans/plan_privilege/ajax_action_load.blade.php
+END

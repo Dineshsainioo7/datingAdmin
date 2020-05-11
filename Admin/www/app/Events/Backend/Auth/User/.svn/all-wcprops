@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/loai/!svn/ver/14/dating/www/app/Events/Backend/Auth/User
+END
+UserReactivated.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/loai/!svn/ver/14/dating/www/app/Events/Backend/Auth/User/UserReactivated.php
+END
+UserPasswordChanged.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/loai/!svn/ver/14/dating/www/app/Events/Backend/Auth/User/UserPasswordChanged.php
+END
+UserDeactivated.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/loai/!svn/ver/14/dating/www/app/Events/Backend/Auth/User/UserDeactivated.php
+END
+UserSocialDeleted.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/loai/!svn/ver/14/dating/www/app/Events/Backend/Auth/User/UserSocialDeleted.php
+END
+UserPermanentlyDeleted.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/loai/!svn/ver/14/dating/www/app/Events/Backend/Auth/User/UserPermanentlyDeleted.php
+END
+UserConfirmed.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/loai/!svn/ver/14/dating/www/app/Events/Backend/Auth/User/UserConfirmed.php
+END
+UserDeleted.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/loai/!svn/ver/14/dating/www/app/Events/Backend/Auth/User/UserDeleted.php
+END
+UserUpdated.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/loai/!svn/ver/14/dating/www/app/Events/Backend/Auth/User/UserUpdated.php
+END
+UserCreated.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/loai/!svn/ver/14/dating/www/app/Events/Backend/Auth/User/UserCreated.php
+END
+UserRestored.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/loai/!svn/ver/14/dating/www/app/Events/Backend/Auth/User/UserRestored.php
+END
+UserUnconfirmed.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/loai/!svn/ver/14/dating/www/app/Events/Backend/Auth/User/UserUnconfirmed.php
+END

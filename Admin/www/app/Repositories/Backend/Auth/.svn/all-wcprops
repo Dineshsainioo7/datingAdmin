@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/loai/!svn/ver/56/dating/www/app/Repositories/Backend/Auth
+END
+SocialRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/loai/!svn/ver/14/dating/www/app/Repositories/Backend/Auth/SocialRepository.php
+END
+UserRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/loai/!svn/ver/56/dating/www/app/Repositories/Backend/Auth/UserRepository.php
+END
+RoleRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/loai/!svn/ver/14/dating/www/app/Repositories/Backend/Auth/RoleRepository.php
+END
+PermissionRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/loai/!svn/ver/14/dating/www/app/Repositories/Backend/Auth/PermissionRepository.php
+END

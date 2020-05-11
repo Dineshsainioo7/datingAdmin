@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/loai/!svn/ver/14/dating/www/database/factories
+END
+RoleFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/loai/!svn/ver/14/dating/www/database/factories/RoleFactory.php
+END
+PermissionFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/loai/!svn/ver/14/dating/www/database/factories/PermissionFactory.php
+END
+UserFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/loai/!svn/ver/14/dating/www/database/factories/UserFactory.php
+END

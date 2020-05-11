@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/loai/!svn/ver/14/dating/www/app/Http/Requests/Backend/Auth/Role
+END
+UpdateRoleRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/loai/!svn/ver/14/dating/www/app/Http/Requests/Backend/Auth/Role/UpdateRoleRequest.php
+END
+ManageRoleRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/loai/!svn/ver/14/dating/www/app/Http/Requests/Backend/Auth/Role/ManageRoleRequest.php
+END
+StoreRoleRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/loai/!svn/ver/14/dating/www/app/Http/Requests/Backend/Auth/Role/StoreRoleRequest.php
+END

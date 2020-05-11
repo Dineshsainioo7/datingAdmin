@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/loai/!svn/ver/101/dating/www/app/Http/Requests/Backend/Auth/User
+END
+UpdateUserRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/loai/!svn/ver/101/dating/www/app/Http/Requests/Backend/Auth/User/UpdateUserRequest.php
+END
+UpdateUserPasswordRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/loai/!svn/ver/14/dating/www/app/Http/Requests/Backend/Auth/User/UpdateUserPasswordRequest.php
+END
+ManageUserRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/loai/!svn/ver/14/dating/www/app/Http/Requests/Backend/Auth/User/ManageUserRequest.php
+END
+StoreUserRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/loai/!svn/ver/101/dating/www/app/Http/Requests/Backend/Auth/User/StoreUserRequest.php
+END

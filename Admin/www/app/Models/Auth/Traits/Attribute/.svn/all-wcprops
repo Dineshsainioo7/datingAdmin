@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/loai/!svn/ver/101/dating/www/app/Models/Auth/Traits/Attribute
+END
+UserAttribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/loai/!svn/ver/101/dating/www/app/Models/Auth/Traits/Attribute/UserAttribute.php
+END
+UserProfileAttribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/loai/!svn/ver/106/dating/www/app/Models/Auth/Traits/Attribute/UserProfileAttribute.php
+END
+RoleAttribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/loai/!svn/ver/14/dating/www/app/Models/Auth/Traits/Attribute/RoleAttribute.php
+END

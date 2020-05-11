@@ -1,0 +1,1 @@
+<?php echo Form::select('state' ,$stateList, null,['class' => 'form-control']); ?><?php /**PATH D:\wamp32\www\loai\dating\www\resources\views/backend/auth/user/ajaxLoad/state.blade.php ENDPATH**/ ?>

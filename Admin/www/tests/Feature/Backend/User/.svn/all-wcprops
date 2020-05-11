@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Backend/User
+END
+ClearSessionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Backend/User/ClearSessionTest.php
+END
+ConfirmUserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Backend/User/ConfirmUserTest.php
+END
+ReadUsersTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Backend/User/ReadUsersTest.php
+END
+DeleteUserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Backend/User/DeleteUserTest.php
+END
+UpdateUserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Backend/User/UpdateUserTest.php
+END
+CreateUserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Backend/User/CreateUserTest.php
+END
+ManageUserSocialTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Backend/User/ManageUserSocialTest.php
+END
+ImpersonateUserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Backend/User/ImpersonateUserTest.php
+END
+ChangeUserPasswordTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Backend/User/ChangeUserPasswordTest.php
+END
+DeactivateUserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/loai/!svn/ver/14/dating/www/tests/Feature/Backend/User/DeactivateUserTest.php
+END

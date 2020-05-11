@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/loai/!svn/ver/56/dating/www/app/Models/Plan/Traits/Attribute
+END
+PlanFeatureAttribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/loai/!svn/ver/44/dating/www/app/Models/Plan/Traits/Attribute/PlanFeatureAttribute.php
+END
+PlanAttribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/loai/!svn/ver/44/dating/www/app/Models/Plan/Traits/Attribute/PlanAttribute.php
+END
+PlanMonthAttribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/loai/!svn/ver/44/dating/www/app/Models/Plan/Traits/Attribute/PlanMonthAttribute.php
+END
+PlanPrivilegeAttribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/loai/!svn/ver/56/dating/www/app/Models/Plan/Traits/Attribute/PlanPrivilegeAttribute.php
+END

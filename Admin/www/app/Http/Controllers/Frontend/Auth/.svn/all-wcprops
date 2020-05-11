@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/loai/!svn/ver/14/dating/www/app/Http/Controllers/Frontend/Auth
+END
+ResetPasswordController.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/loai/!svn/ver/14/dating/www/app/Http/Controllers/Frontend/Auth/ResetPasswordController.php
+END
+UpdatePasswordController.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/loai/!svn/ver/14/dating/www/app/Http/Controllers/Frontend/Auth/UpdatePasswordController.php
+END
+LoginController.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/loai/!svn/ver/14/dating/www/app/Http/Controllers/Frontend/Auth/LoginController.php
+END
+ConfirmAccountController.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/loai/!svn/ver/14/dating/www/app/Http/Controllers/Frontend/Auth/ConfirmAccountController.php
+END
+ForgotPasswordController.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/loai/!svn/ver/14/dating/www/app/Http/Controllers/Frontend/Auth/ForgotPasswordController.php
+END
+PasswordExpiredController.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/loai/!svn/ver/14/dating/www/app/Http/Controllers/Frontend/Auth/PasswordExpiredController.php
+END
+SocialLoginController.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/loai/!svn/ver/14/dating/www/app/Http/Controllers/Frontend/Auth/SocialLoginController.php
+END
+RegisterController.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/loai/!svn/ver/14/dating/www/app/Http/Controllers/Frontend/Auth/RegisterController.php
+END
